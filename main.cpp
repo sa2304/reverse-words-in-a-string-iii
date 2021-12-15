@@ -12,6 +12,7 @@ void TestReverseWords() {
 }
 
 int main() {
+  TestReverseWords();
   std::cout << "Ok!" << std::endl;
   return 0;
 }
